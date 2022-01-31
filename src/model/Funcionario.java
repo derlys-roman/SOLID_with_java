@@ -1,9 +1,6 @@
 package src.model;
 
-import src.ValidacaoException;
-
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 import java.time.LocalDate;
 
 public class Funcionario {
